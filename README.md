@@ -7,7 +7,7 @@ The pretrained entity-mask bert model can be found here:  https://pan.baidu.com/
 ## usage
 python Main.py
 
-## requriments
+## requirments
 pytorch-crf == 0.7.2
 
 tensorflow == 1.5.0
