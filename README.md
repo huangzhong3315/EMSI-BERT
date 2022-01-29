@@ -1,6 +1,6 @@
 ## OverView
 
-Code for paper: ++A Drug–Drug Interaction Extraction Method based on Entity Masking and Symbol Insertion in Bert++
+Code for paper: EMSI-BERT: Entity Masking and Symbol Inserting for Drug-Drug Interaction Extraction based on BERT
 
 The pretrained entity-mask bert model can be found here:  https://pan.baidu.com/s/1QLUs5X6sd9JgGnyNqKG0zg  提取码: 41wv 
 
